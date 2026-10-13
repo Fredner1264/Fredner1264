@@ -1,0 +1,7 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="200" cy="200" r="178" fill="#0d1f38" stroke="#ffffff" stroke-width="7"/>
+  <text font-family="'Arial Narrow',Arial,sans-serif" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">
+    <tspan x="292" y="172" font-size="36">MODELO DE</tspan>
+    <tspan x="292" dy="46" font-size="36">NEGÓCIO</tspan>
+  </text>
+</svg>
