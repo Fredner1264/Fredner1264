@@ -1,0 +1,16 @@
+<svg viewBox="0 0 60 320" xmlns="http://www.w3.org/2000/svg">
+  <!-- blue arrow line -->
+  <line x1="30" y1="0" x2="30" y2="270" stroke="#4a8fd4" stroke-width="3"/>
+  <!-- arrowhead pointing down -->
+  <polygon points="20,258 30,280 40,258" fill="#4a8fd4"/>
+  <!-- MERCADO vertical text -->
+  <text
+    font-family="'Arial Narrow',Arial,sans-serif"
+    font-weight="700"
+    font-size="22"
+    fill="#ffffff"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    letter-spacing="4"
+    transform="translate(15,160) rotate(-90)">MERCADO</text>
+</svg>
