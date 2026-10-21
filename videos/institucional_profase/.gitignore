@@ -1,0 +1,4 @@
+midia/
+export/
+__pycache__/
+*.pyc
